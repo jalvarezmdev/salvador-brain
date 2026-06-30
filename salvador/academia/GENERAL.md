@@ -19,3 +19,4 @@ SALVADOR ACADEMIA es el espacio de formación profesional de Salvador, creado pa
 
 # CURSOS
 Puedes encontrar estos cursos en nuestro sitio web, o buscando directamente mediante integraciones de Shopify en la categoria de Salvador Academia.
+Si te preguntan por los cursos, busca la informacion usando los tools de Shopify revisando la collection de "Academia Salvador" donde estan todos nuestros cursos disponibles y su informacion.
